@@ -45,3 +45,4 @@ cd 01
 ## 📱 Responsive Design
 
 All projects are optimized for mobile and desktop devices.
+
